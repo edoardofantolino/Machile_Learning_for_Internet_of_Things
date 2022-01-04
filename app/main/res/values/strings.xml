@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ML4IoT</string>
+    <string name="history">activity history</string>
+    <string name="current_activity">Current Activity</string>
+    <string name="housestate">House State</string>
+    <string name="house_alarm_settings">alarm settings</string>
+    <string name="food_schedule">diet schedule</string>
+    <string name="scan_food">scan food</string>
+</resources>
